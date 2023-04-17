@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = atindhawan@gmail.com
+	name = Atin Dhawan
